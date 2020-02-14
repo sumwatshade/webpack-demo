@@ -24,4 +24,4 @@ open /Path/to/repo/webpack-demo/index.html
 
 ## Next Steps
 
-See `step-one.md` for next steps!
+See `step-one-creating-the-bundle.md` for next steps!
