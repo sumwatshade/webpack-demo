@@ -1,5 +1,6 @@
 # Creating our first webpack bundle
 
+## Process
 
 - add build script to `package.json`
 
@@ -43,3 +44,7 @@ yarn build ./src/js/index.js
 - verify that the page still loads. Note the network traffic retrieving `main.js`
 
 ![Page using main.js](images/step-1-first-bundle.png)
+
+## Next Steps
+
+Head over to [step two]() to add node modules to your bundle!
