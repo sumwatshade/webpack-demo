@@ -1,0 +1,13 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "A simple demonstration of webpack configuration and commands",
+  "private": "true",
+  "repository": "git@github.intuit.com:lshadler/webpack-demo.git",
+  "author": "Lucas Shadler <lucas_shadler@intuit.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
