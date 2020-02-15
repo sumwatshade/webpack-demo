@@ -96,4 +96,4 @@ yarn build
 
 ## Next Steps
 
-So far we have only been bundling Javascript. In the next section, we will be looking at how we can use loaders to bundle files that aren't Javascript at all!
+So far we have only been bundling Javascript. In the [next section](./step-3-loaders), we will be looking at how we can use loaders to bundle files that aren't Javascript at all!

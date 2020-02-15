@@ -2,6 +2,9 @@ var BasicComponent = require("./components/BasicReactComponent").default;
 var React = require("react");
 var ReactDOM = require("react-dom");
 
+// Import our CSS
+require("../css/styles.css");
+
 // Create Div with content
 var el = document.createElement('p');
 
