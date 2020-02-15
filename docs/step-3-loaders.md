@@ -85,11 +85,11 @@ yarn add --dev style-loader css-loader
 
 > The loaders have interpreted the css files and bundled it into the Javascript output
 
-![Success build](./step-3-style-build-success.png)
+![Success build](./images/step-3-style-build-success.png)
 
 - Observe the `index.html` page. Note that there is now only one file requested for both of them
 
-![Page](./step-3-bundle-success.png)
+![Page](./images/step-3-bundle-success.png)
 
 ## Next Steps
 
