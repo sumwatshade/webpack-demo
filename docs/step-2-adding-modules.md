@@ -92,7 +92,11 @@ export default class BasicReactComponent extends React.Component {
 yarn build
 ```
 
+![Build](./images/step-2-build.png)
+
 - verify the webpage displays. Note how much longer the JS bundle is now that we have ReactDOM as a dependency. Be careful about what you put into your bundle!
+
+![Build](./images/step-2-finish.png)
 
 ## Next Steps
 
